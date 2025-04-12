@@ -5,7 +5,7 @@ This repository contains code for interfacing an ESP32-CAM module with an ESP32 
 
 ESP32-CAM setup for camera capture and data transmission
 
-ESP32 + TFT display (ST7735/ILI9341/etc.) for live feed display
+ESP32 + TFT display ST7735 for live feed display
 
 Communication over Wi-Fi
 
