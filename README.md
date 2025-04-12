@@ -17,3 +17,6 @@ Lightweight, optimized code for real-time image display
 
 When uploading code to ESP-32 CAM, the esp32 board library in board manager needs to be version 1.0.4.
 When uploading code to ESP-32 with the connected tft display, the esp32 board library in board manager needs to near the latest versions.
+
+When you download the TFT_eSPI library you need to change its User_Setup, with the provided one above, make sure that your tft display uses ST7735.
+
