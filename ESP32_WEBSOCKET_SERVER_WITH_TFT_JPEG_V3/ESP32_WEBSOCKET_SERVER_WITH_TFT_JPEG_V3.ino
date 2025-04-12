@@ -5,7 +5,7 @@
 #include <TJpg_Decoder.h>
 #include <TFT_eSPI.h>
 
-const char* ssid = "matej";
+const char* ssid = "esp32net";
 const char* password = "123456789";
 
 using namespace websockets;
