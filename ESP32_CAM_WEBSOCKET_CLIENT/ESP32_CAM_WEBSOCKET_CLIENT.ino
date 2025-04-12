@@ -15,7 +15,7 @@
 
 #include "camera_pins.h"
 
-const char* ssid = "matej";
+const char* ssid = "esp32net";
 const char* password = "123456789";
 
 const char* websockets_server_host = "192.168.4.1";
