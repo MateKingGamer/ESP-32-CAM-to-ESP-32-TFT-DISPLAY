@@ -14,3 +14,6 @@ Designed for robotics or remote monitoring projects
 Lightweight, optimized code for real-time image display
 
 🚀 Great for DIY surveillance, remote robots, or creative IoT displays.
+
+When uploading code to ESP-32 CAM, the esp32 board library in board manager needs to be version 1.0.4.
+When uploading code to ESP-32 with the connected tft display, the esp32 board library in board manager needs to near the latest versions.
