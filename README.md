@@ -20,3 +20,14 @@ When uploading code to ESP-32 with the connected tft display, the esp32 board li
 
 When you download the TFT_eSPI library you need to change its User_Setup, with the provided one above, make sure that your tft display uses ST7735.
 
+[Arduino Websockets]
+https://github.com/gilmaimon/ArduinoW...
+
+[Arduino JPEGDecoder library (OLD)]
+https://github.com/Bodmer/JPEGDecoder
+
+[Arduino TJpg_Decoder library (NEW)]
+https://github.com/Bodmer/TJpg_Decoder
+
+[TFT_eSPI]
+https://github.com/Bodmer/TFT_eSPI
